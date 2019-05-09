@@ -4,8 +4,8 @@
 ## Getting started
 
 `$ npm install react-native-my-video --save`
-
-需要先安装react-native-orientation
+`$ npm install @react-native-community/slider --save`
+`$ npm install react-native-orientation --save`
 
 ## Usage
 ```javascript
