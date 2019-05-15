@@ -1,6 +1,6 @@
 
 # react-native-my-video
-
+由于react-native-video在android上全屏有问题，所以才自己弄了个组件
 ## Getting started
 
 `$ npm install react-native-my-video --save`
